@@ -58,3 +58,18 @@ input::placeholder {
   color: #fff;
   font-size: 1.4em;
 }
+
+
+@media only screen and (max-width: 600px) {
+  #compass{
+    display: none;
+  }
+  #login-box{
+    padding: 0 10px;
+  }
+}
+
+
+.validacion {
+  border: 1px solid yellow!important;
+}

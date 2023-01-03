@@ -1,0 +1,56 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+  background: #fff url('../../../assets/img/bg-home.jpg') 0px 40vh no-repeat;
+  background-size: auto;
+
+}
+.foooter {
+  width: 100vw;
+  height: 100px;
+  background: linear-gradient(90.16deg, #33383D 0%, #1C1D20 100%);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 10px;
+  color: #fff;
+}
+.search {
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  color: #C13216;
+  font-weight: bold;
+  border: none;
+}
+.logout{
+  width: 100%;
+  height: 100px;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  background:  #1C1D20;
+}
+
+article{
+  text-align: right;
+}
+h4 {
+  color: #C12D18;
+  font-size: 2.3em;
+  font-weight: bold;
+}
+h3 {
+  color: #C12D18;
+  font-size: 3.4em;
+  font-weight: bold;
+}
+
+h1{
+  font-size: 3.4em;
+  font-weight: bold;
+}
+
+p{
+  font-size: 1.0em;
+}
